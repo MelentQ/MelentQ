@@ -25,4 +25,3 @@
 
 * Telegram: [@melentQ](https://t.me/melentq)
 * Email: [melentq@gmail.com](mailto:melentq@gmail.com)
-* Facebook: [@melentq](https://www.facebook.com/melentq)
