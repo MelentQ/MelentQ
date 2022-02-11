@@ -12,6 +12,7 @@
 * PHP
 * 1С Bitrix
 * React.js
+* Pixel-Pokhui вёрстка
 
 ## Статистика
 
