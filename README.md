@@ -12,7 +12,8 @@
 * PHP
 * 1С Bitrix
 * React.js
-* Pixel-Pokhui вёрстка
+* Vue.js
+* Pixel-Perfect вёрстка
 
 ## Статистика
 
