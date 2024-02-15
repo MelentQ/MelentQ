@@ -1,18 +1,19 @@
 # Привет!
 
-* Верстаю (handlebars + scss)
+* Верстаю (handlebars, pug + scss, pcss)
 * Натягиваю на 1С Битрикс Управление сайтом
 * Пытаюсь делать первые два пункта параллельно
+* Vue.js
 
 ## Мой стек:
 
-* HTML
+* HTML (Hbs, Pug)
 * CSS (SCSS)
 * JS (ES6)
+* Vue 3 Composition Api
 * PHP
 * 1С Bitrix
 * React.js
-* Vue.js
 * Pixel-Perfect вёрстка
 
 ## Статистика
